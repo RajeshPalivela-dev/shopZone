@@ -156,7 +156,7 @@ const Cart = () => {
               </div>
 
               <button
-                onClick={() => alert("Proceeding to checkout!")}
+                onClick={() => alert("Thank you for Booking!")}
                 className="mt-7 w-full rounded-xl bg-blue-600 px-5 py-3.5 font-bold text-white shadow-md transition hover:bg-blue-700 active:scale-[0.98]"
               >
                 Proceed to Checkout
